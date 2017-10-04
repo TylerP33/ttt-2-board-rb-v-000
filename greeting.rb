@@ -1,4 +1,5 @@
 def Hello_world
   puts "Hello World"
 end
-greeting
+
+Hello_World
