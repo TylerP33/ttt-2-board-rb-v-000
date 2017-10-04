@@ -1,5 +1,5 @@
-def Hello_world
+def dog
   puts "Hello World"
 end
 
-Hello_world
+dog
