@@ -3,3 +3,8 @@ def dog
 end
 
 dog
+dog
+dog
+dog
+dog
+dog
